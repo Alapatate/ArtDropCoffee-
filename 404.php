@@ -14,7 +14,7 @@
 			<section>
                 <div class="row">
                     <div class="col-md-offset-4 col-md-4 center">
-                        <h3>:/ ERREUR 404</h3>
+                        <h3>:/ ERREUR 484</h3>
                         <h2>Cette page n’existe pas.</h2>
                         <p>Il peut s'agir d'une erreur technique. 
                         Veuillez réessayer ultérieurement. 
