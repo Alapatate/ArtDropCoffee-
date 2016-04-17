@@ -3,7 +3,7 @@
     
 	<?php 
     $page = '404';
-    include("head.php"); 
+    include("header.php"); 
     ?>
     
 	<body>
